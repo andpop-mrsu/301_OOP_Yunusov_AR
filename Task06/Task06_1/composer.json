@@ -1,5 +1,5 @@
 {
-  "name": "frlvz/task06_1",
+  "name": "Aidar/task06_1",
   "autoload": {
     "psr-4": {
       "App\\": "src/",
