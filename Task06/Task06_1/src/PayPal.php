@@ -13,6 +13,11 @@ class PayPal
         $this->password = $password;
     }
 
+    public function getEmail(): string
+    {
+        return $this->email;
+    }
+
     public function transfer($email, $amount)
     {
         return "Paypal Success!";
